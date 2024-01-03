@@ -17,23 +17,23 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
+      "name": "Support123",
       "url": "mailto:hi@mintlify.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
+    "name": "Dashboard123",
     "url": "https://dashboard.mintlify.com"
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "API Reference123",
       "url": "api-reference"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Documentation123",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
